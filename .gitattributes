@@ -1,0 +1,11 @@
+# Always use LF for code files
+*.py     text eol=lf
+*.sh     text eol=lf
+*.yml    text eol=lf
+*.md     text eol=lf
+
+# Use CRLF for Windows batch scripts
+*.bat    text eol=crlf
+
+# Auto-detect everything else
+*        text=auto

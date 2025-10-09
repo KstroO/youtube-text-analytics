@@ -1,0 +1,24 @@
+name: youtube-nlp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - ipython
+  - matplotlib
+  - seaborn
+  - numpy
+  - pandas
+  - pillow
+  - tqdm
+  - scikit-learn
+  - pip:
+    - wordcloud
+    - nltk
+    - google-api-python-client
+    - python-dotenv
+    - langdetect
+    - vaderSentiment
+    - polars
+    - emoji
+    - pyarrow
