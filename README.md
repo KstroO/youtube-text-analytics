@@ -9,6 +9,21 @@ Cloud of emojis example
 ### API key configuration
 Make sure you get your API key from google console, you can place it in the file `.env` at the root of the project.
 
+1. Copy `.env.example` to `.env`:
+
+On linux/Max
+```bash
+cp .env.example .env
+```
+
+On windows
+
+```cmd
+copy .env.example .env
+```
+
+2. Replace the placeholder values in `.env` with your actual credentials.
+
 ### YouTube channel selection
 You can place the channel handle of your choice in the `config.py` file at the root of the project.
 
