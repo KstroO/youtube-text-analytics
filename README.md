@@ -20,8 +20,8 @@ Notebooks labeled `02` and `03` have the different kind of analyses performed, f
 - [https://www.anaconda.com/docs/getting-started/miniconda/main](Miniconda) (recommended, lighter)
 - [https://www.anaconda.com/download](Anaconda)
 2. Clone this project and navigate into the directory:
-- git clone
-- cd 
+- git clone https://github.com/KstroO/youtube-text-analytics.git
+- cd youtube-text-analytics
 3. Create the environment:
 - conda env create -f environment.yml
 4. Activate the environment
