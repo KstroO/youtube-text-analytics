@@ -12,6 +12,8 @@ dependencies:
   - pillow
   - tqdm
   - scikit-learn
+  - ipywidgets
+  - pip
   - pip:
     - wordcloud
     - nltk
@@ -22,3 +24,6 @@ dependencies:
     - polars
     - emoji
     - pyarrow
+    - soynlp
+    - ydata-profiling
+    - cairosvg
