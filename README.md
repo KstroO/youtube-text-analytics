@@ -4,7 +4,7 @@ The current project is built around YouTube comments for a given channel. It con
 This projects experiments heavily with polars, but does use pandas for some sections, specially integration with plotting libraries.
 
 Cloud of words example
-![Cloud of words](assets/images/cloud_of_words.png)
+![Cloud of words](assets/images/cloud_of_words_example.png)
 
 Cloud of emojis example
 ![Cloud of emojis](assets/images/cloud_of_emojis_example.png)
