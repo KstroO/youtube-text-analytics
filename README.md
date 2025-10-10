@@ -3,8 +3,20 @@ The current project is built around YouTube comments for a given channel. It con
 
 This projects experiments heavily with polars, but does use pandas for some sections, specially integration with plotting libraries.
 
+Cloud of words example
+![Cloud of words](assets/images/cloud_of_words.png)
+
 Cloud of emojis example
 ![Cloud of emojis](assets/images/cloud_of_emojis_example.png)
+
+Bigrams Cloud of words example:
+![Bigrams example](assets/images/bigrams_example.png)
+
+Comment statistics example
+![Comment Statistics Example](assets/images/comment_statistics_example.png)
+
+Sentiment analysis example
+![Sentiment Analysis Statistics Example](assets/images/sentiment_statistics_example.png)
 
 ### API key configuration
 Make sure you get your API key from google console, you can place it in the file `.env` at the root of the project.
